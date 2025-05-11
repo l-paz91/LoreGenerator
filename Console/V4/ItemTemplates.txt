@@ -1,0 +1,11 @@
+The {{item}} was {{adjective}}, and {{sentence}}.
+A {{adjective}} artifact, {{sentence}}.
+{{item}}: {{sentence}}.
+The {{item}} is {{adjective}} and {{sentence}}.
+This {{adjective}} {{item}} {{sentence}}.
+Known for being {{adjective}}, the {{item}} {{sentence}}.
+The {{item}}, once {{adjective}}, now {{sentence}}.
+Considered {{adjective}} by many, the {{item}} {{sentence}}.
+They say the {{adjective}} {{item}} {{sentence}}.
+Little is known about the {{adjective}} {{item}}, except that it {{sentence}}.
+The {{item}}, noted for being {{adjective}}, {{sentence}}.
